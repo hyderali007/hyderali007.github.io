@@ -1,4 +1,5 @@
 
+alert('Hello');
 <script language="JavaScript">
 <!--hide
 var password;
